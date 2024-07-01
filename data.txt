@@ -1,0 +1,9 @@
+private_key='ba4f20bb0e5685bd6db84f6556b7efd271c7c51b51113e673de5a1226f06d40fk'
+rpc_url = 'https://rpc-testnet.unit0.dev'
+chain_id = 88817
+Ticker = 'UNIT0'
+transaction_send=100000
+balance_send=0.0000001
+random=250
+gasLimit = 50000
+gasGwei = 0.3
